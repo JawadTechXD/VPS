@@ -1,14 +1,12 @@
 [
   {
+    "username": "JawadYT804",
+    "limit": 50,
+    "expiry": "2025-12-31"
+  },
+  {
     "username": "JawadYT36",
-    "limit": 2
-  },
-  {
-    "username": "JawadTechXD",
-    "limit": 3
-  },
-  {
-    "username": "XDTechPro",
-    "limit": 1
+    "limit": 10,
+    "expiry": "2025-06-30"
   }
 ]
